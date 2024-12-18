@@ -14,8 +14,8 @@
 - **Model 3 - Movie Recommender**: [GitHub Link](https://github.com/Ronak-Malkan/Movie-Recommender)
 
 ## Colab Links:
-- **Model 1** - Content-Based Filtering: [Colab Link](Content-Based-Filtering-Recommendation.ipynb)
-- **Model 2** - Movie Recommendation: [Colab Link](Recommend_Movie.ipynb)
+- **Model 1** - Content-Based Filtering: [Colab Link](https://colab.research.google.com/drive/1eR0m4krJVNr_S4ZFbf2cYwAN8SNZLLGi?usp=sharing)
+- **Model 2** - Movie Recommendation: [Colab Link](https://colab.research.google.com/drive/1d6abh4ZyCcWsnZ-J3SJ_tG0O8rCLdDQL?usp=sharing)
 
 ## Web Links:
 - **Streamlit Model 1** - Collaborative Filtering: [Streamlit Link](https://movie-recommend-collaborative-suriya.streamlit.app/)
